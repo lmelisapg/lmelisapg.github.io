@@ -1293,11 +1293,11 @@
         backgroundColor: null,
         color: '#ffffff',
         hoverOpacity: 0.7,
-        selectedColor: '#1de9b6',
+        selectedColor: '#ccc',
         enableZoom: true,
         showTooltip: true,
         values: sample_data,
-        scaleColors: [ '#1de9b6', '#03a9f5'],
+        scaleColors: [ '#fa4251', '#00b26f'],
         normalizeFunction: 'polynomial'
       });
     }
